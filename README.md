@@ -46,7 +46,7 @@ I am a Fullstack Machine Learning Engineer focused on bridging the gap between M
 
 I'm always open to discussing ML architecture, backend optimization, or interesting open-source projects.
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zenbitex2)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZenbiteXYZ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zenbitex/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.v.kulikov42@gmail.com)
 

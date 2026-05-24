@@ -1,9 +1,10 @@
 # Hi, I'm Mikhail Kulikov | Fullstack ML Engineer 🚀
 
-I am a Fullstack Machine Learning Engineer focused on bridging the gap between ML models and production-ready applications. I build end-to-end solutions, from data versioning and model training to scalable API deployment.
+I am a Data Scientist & Machine Learning Engineer focused on bridging the gap between ML models and production-ready applications. I build end-to-end solutions, from data versioning and model training to scalable API deployment.
 
 ### 🧠 Areas of Interest
 - **Computer Vision & NLP**: Actively exploring and implementing state-of-the-art architectures.
+- **LLMs**: Agentic systems, prompt engeneering, RAG, models finetuning, Knowledge Distillation. 
 - **MLOps**: Ensuring reproducibility with DVC and efficient experiment tracking.
 - **High-Performance APIs**: Building lean and fast interfaces for ML model inference.
 
@@ -14,6 +15,7 @@ I am a Fullstack Machine Learning Engineer focused on bridging the gap between M
 **Languages**
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Machine Learning & Data Science**
 - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) 
